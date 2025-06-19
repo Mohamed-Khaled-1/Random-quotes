@@ -13,8 +13,7 @@
   color: #fff;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
   font-family: "amatic sc", cursive;
-  font-size: 6rem;
-  font-weight: 700;
+  font-weight: 600;
 }
 
 .w-90 {
@@ -38,10 +37,9 @@
 }
 #quote {
   font-family: "Caveat", cursive;
-  font-size: 2.25rem !important;
   text-align: center;
   color: #f1f1f1;
-  padding: 20px;
-  line-height: 1.6;
+  padding: 0.5rem;
   transition: all 0.3s ease-in-out;
+  margin: 0;
 }
